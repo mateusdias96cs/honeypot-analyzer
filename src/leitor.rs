@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::{BufRead, BufReader};
 use crate::modelos::EventoAuth;
 
-pub const CAMINHO_PADRAO: &str = "/tmp/.honeypot_events.json";
+pub const CAMINHO_PADRAO: &str = "/tmp/.honeypot_auth_attempts.json";
 pub const CAMINHO_AMOSTRA: &str = "samples/sample_events.json";
 
 pub fn ler_eventos(caminho: &str) -> Result<Vec<EventoAuth>, String> {
