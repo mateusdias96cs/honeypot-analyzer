@@ -1,0 +1,29 @@
+{
+  "periodo": "2026-05-08",
+  "total_eventos": 6,
+  "tentativas_por_ip": {
+    "127.0.0.1": 6
+  },
+  "brute_force_detectado": true,
+  "ips_suspeitos": [
+    "127.0.0.1"
+  ],
+  "severidade_maxima": "ALTA",
+  "linha_do_tempo": {
+    "primeiro_evento": "2026-05-08T20:50:12.488580",
+    "ultimo_evento": "2026-05-08T20:50:31.319051",
+    "duracao_ataque_segundos": 18,
+    "intervalo_medio_entre_tentativas_segundos": 3.4
+  },
+  "classificacao": {
+    "nivel": "ALTA",
+    "justificativa": "6 tentativas do IP 127.0.0.1 - padrao consistente com ferramenta automatizada",
+    "mitre_attack": "T1110.001",
+    "recomendacao": "Bloquear IP 127.0.0.1 via firewall. Investigar outros alvos na rede."
+  },
+  "analise_senhas": {
+    "total_senhas_unicas": 6,
+    "padrao_detectado": "dictionary_attack",
+    "hashes_unicos": true
+  }
+}

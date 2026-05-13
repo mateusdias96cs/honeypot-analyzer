@@ -1,0 +1,6 @@
+{"timestamp": "2026-05-08T20:50:12.488580", "type": "auth_attempt", "username": "admin", "password_hash": "50ad41624c25e493aa1dc7f4ab32bdc5a3b0b78ecc35b539936e3fea7c565af7", "ip": "127.0.0.1", "success": false}
+{"timestamp": "2026-05-08T20:50:13.625349", "type": "auth_attempt", "username": "admin", "password_hash": "03042cf8100db386818cee4ff0f2972431a62ed78edbd09ac08accfabbefd818", "ip": "127.0.0.1", "success": false}
+{"timestamp": "2026-05-08T20:50:14.835371", "type": "auth_attempt", "username": "admin", "password_hash": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6", "ip": "127.0.0.1", "success": false}
+{"timestamp": "2026-05-08T20:50:28.784150", "type": "auth_attempt", "username": "admin", "password_hash": "ddc10a5906f8c0ea77bac646567f9680f2b6f989f35485f0cc65b7b5a223d32c", "ip": "127.0.0.1", "success": false}
+{"timestamp": "2026-05-08T20:50:30.105701", "type": "auth_attempt", "username": "admin", "password_hash": "8cc7a4de25920211fb328c8b3e3f7ccadeff4a2073ba8a093ebf3a06ab828774", "ip": "127.0.0.1", "success": false}
+{"timestamp": "2026-05-08T20:50:31.319051", "type": "auth_attempt", "username": "admin", "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e", "ip": "127.0.0.1", "success": false}
