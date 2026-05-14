@@ -1,5 +1,9 @@
 # Honeypot SSH Log Analyzer
 
+![Demo do analisador detectando ataque real do Kali Linux](docs/demo.png)
+
+> Analisador detectando Credential Stuffing (T1110.004) em tempo real...
+
 Analisador de logs escrito em Rust que processa eventos do honeypot SSH,
 detecta padroes de ataque e exporta metricas estruturadas com
 mapeamento MITRE ATT&CK.
